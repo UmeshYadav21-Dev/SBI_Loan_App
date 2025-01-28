@@ -16,5 +16,9 @@ public class Person {
 	public static void m3() {
 		System.out.println("hi, i am from m3()");
 	}
+	
+	public static void m4() {
+		System.out.println("hi, i am from m4()");
+	}
 
 }
